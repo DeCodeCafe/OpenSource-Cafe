@@ -97,6 +97,17 @@
 
 
 
+## Date: 7th June 2022
+
+- Name: Wileam Phan
+- Organization: GCC
+- Tech-Stack: Compiler
+- Host:
+- Timing: 8:00 PM - 9:00 PM
+- Issue:
+
+
+
 ## Date: 8th June 2022
 
 - Name: Jason Gayle

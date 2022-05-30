@@ -14,7 +14,7 @@
 - Name: Sumana Basu X Aman Raj
 - Organization: OpenFoodFacts
 - Tech-Stack: Web-Development
-- Host:
+- Host: Subhradeep Samanta
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -113,7 +113,7 @@
 - Name:  Joomla!
 - Organization: Shazma Siddiqui
 - Tech-Stack: Web-Development
-- Host:
+- Host: Subhradeep Samanta
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -135,7 +135,7 @@
 - Name: Vedant Jain
 - Organization: Circuit Verse
 - Tech-Stack: Android/Web Development
-- Host:
+- Host: 
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -157,6 +157,6 @@
 - Name: Janvi Thakkar
 - Organization: ScoreLab
 - Tech-Stack: ReactJS
-- Host:
+- Host: 
 - Timing: 7:00 PM - 8:00 PM
 - Issue:

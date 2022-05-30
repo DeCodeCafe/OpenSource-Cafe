@@ -157,6 +157,6 @@
 - Name: Janvi Thakkar
 - Organization: ScoreLab
 - Tech-Stack: ReactJS
-- Host: 
+- Host: Shivangi Singh
 - Timing: 7:00 PM - 8:00 PM
 - Issue:

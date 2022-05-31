@@ -14,7 +14,7 @@
 - Name: Sumana Basu X Aman Raj
 - Organization: OpenFoodFacts
 - Tech-Stack: Web-Development
-- Host: Subhradeep Samanta
+- Host:  
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -124,7 +124,7 @@
 - Name:  Joomla!
 - Organization: Shazma Siddiqui
 - Tech-Stack: Web-Development
-- Host: Subhradeep Samanta
+- Host:
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 

@@ -14,7 +14,7 @@
 - Name: Sumana Basu X Aman Raj
 - Organization: OpenFoodFacts
 - Tech-Stack: Web-Development
-- Host:  
+- Host: Rishabh Jain
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -25,7 +25,7 @@
 - Name: Yashraj Desai
 - Organization: CDLI
 - Tech-Stack: Web-Development
-- Host:
+- Host: Vyom Yadav
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 

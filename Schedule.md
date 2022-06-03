@@ -36,7 +36,7 @@
 - Name: Vraj Desai
 - Organization: Oppia
 - Tech-Stack: Android Development
-- Host:
+- Host: Shivangi Singh
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -69,7 +69,7 @@
 - Name: Harsh Mahesheka
 - Organization: Oppia
 - Tech-Stack: Robotics
-- Host:
+- Host: Bhavya Sachdeva
 - Timing: **8:00 PM - 9:00 PM**
 - Issue:
 
@@ -91,7 +91,7 @@
 - Name: Avinaash M. Vijayvargiya
 - Organization: The Mifos Initiative
 - Tech-Stack: Android Development
-- Host:
+- Host:   
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -102,7 +102,7 @@
 - Name: Wileam Phan
 - Organization: GCC
 - Tech-Stack: Compiler
-- Host:
+- Host: Vyom Yadav
 - Timing: 8:00 PM - 9:00 PM
 - Issue:
 
@@ -123,7 +123,7 @@
 - Name: Pooja Patel
 - Organization: GNOME
 - Tech-Stack: - Linux 
-- Host: Vyom Yadav
+- Host: Rahul Khinchi
 - Timing: 8:00 PM - 9:00 PM
 - Issue:
 
@@ -134,7 +134,7 @@
 - Name:  Joomla!
 - Organization: Shazma Siddiqui
 - Tech-Stack: Web-Development
-- Host:
+- Host: Vyom Yadav
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -145,7 +145,7 @@
 - Name: Suyash Nayan
 - Organization: Chromium
 - Tech-Stack: JavaScript
-- Host:
+- Host: 
 - Timing: **8:00 PM - 9:00 PM**
 - Issue:
 
@@ -178,6 +178,6 @@
 - Name: Janvi Thakkar
 - Organization: ScoreLab
 - Tech-Stack: ReactJS
-- Host: 
+- Host: Shivangi Singh
 - Timing: 7:00 PM - 8:00 PM
 - Issue:

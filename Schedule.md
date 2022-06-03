@@ -134,7 +134,7 @@
 - Name:  Joomla!
 - Organization: Shazma Siddiqui
 - Tech-Stack: Web-Development
-- Host: Vyom Yadav
+- Host:
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 

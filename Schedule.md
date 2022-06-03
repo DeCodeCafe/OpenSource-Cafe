@@ -80,7 +80,7 @@
 - Name: Aniket Pal
 - Organization: IHR
 - Tech-Stack: Web-Development
-- Host:
+- Host: Rahul Khinchi
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 

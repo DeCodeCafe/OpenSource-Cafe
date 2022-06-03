@@ -118,6 +118,16 @@
 - Issue:
 
 
+## Date: 8th June 2022
+
+- Name: Pooja Patel
+- Organization: GNOME
+- Tech-Stack: - Linux 
+- Host: Vyom Yadav
+- Timing: 8:00 PM - 9:00 PM
+- Issue:
+
+
 
 ## Date: 9th June 2022
 

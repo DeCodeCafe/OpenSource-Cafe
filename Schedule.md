@@ -41,18 +41,6 @@
 - Issue:
 
 
-
-## Date: 4th June 2022
-
-- Name: Parth Tripathi
-- Organization: Zarr
-- Tech-Stack: Python
-- Host: Ayush Bharatiya
-- **Timing: 8:00 PM - 9:00 PM**
-- Issue:
-
-
-
 ## Date: 5th June 2022
 
 - Name: Ayush Kumar

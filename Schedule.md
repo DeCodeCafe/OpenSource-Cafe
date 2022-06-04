@@ -131,10 +131,10 @@
 
 ## Date: 9th June 2022
 
-- Name:  Joomla!
+- Name: Joomla!
 - Organization: Shazma Siddiqui
 - Tech-Stack: Web-Development
-- Host:
+- Host: Vyom Yadav
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 

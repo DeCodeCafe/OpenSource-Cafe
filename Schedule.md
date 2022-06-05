@@ -144,7 +144,7 @@
 - Name: Vedant Jain
 - Organization: Circuit Verse
 - Tech-Stack: Android/Web Development
-- Host: 
+- Host: Frehiwot Haile
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 

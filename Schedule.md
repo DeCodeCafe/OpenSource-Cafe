@@ -79,7 +79,7 @@
 - Name: Avinaash M. Vijayvargiya
 - Organization: The Mifos Initiative
 - Tech-Stack: Android Development
-- Host:   
+- Host: Bhavya Sachdeva   
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 

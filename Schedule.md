@@ -106,16 +106,6 @@
 - Issue:
 
 
-## Date: 8th June 2022
-
-- Name: Pooja Patel
-- Organization: GNOME
-- Tech-Stack: - Linux 
-- Host: Rahul Khinchi
-- Timing: 8:00 PM - 9:00 PM
-- Issue:
-
-
 
 ## Date: 9th June 2022
 
@@ -144,7 +134,7 @@
 - Name: Vedant Jain
 - Organization: Circuit Verse
 - Tech-Stack: Android/Web Development
-- Host: Frehiwot Haile
+- Host: 
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -152,11 +142,11 @@
 
 ## Date: 11th June 2022
 
-- Name: Hrishikesh Agarwal
-- Organization: Python Software Foundation
-- Tech-Stack: Python
-- Host:
-- Timing: 7:00 PM - 8:00 PM
+- Name: Pooja Patel
+- Organization: GNOME
+- Tech-Stack: - Linux 
+- Host: Rahul Khinchi
+- Timing: 8:00 PM - 9:00 PM
 - Issue:
 
 

@@ -96,17 +96,6 @@
 
 
 
-## Date: 8th June 2022
-
-- Name: Jason Gayle
-- Organization: Palisadoes Foundation (MENTOR)
-- Tech-Stack: -
-- Host:
-- Timing: 7:00 PM - 8:00 PM
-- Issue:
-
-
-
 ## Date: 9th June 2022
 
 - Name: Joomla!

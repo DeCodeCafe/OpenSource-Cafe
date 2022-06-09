@@ -107,23 +107,12 @@
 
 
 
-## Date: 9th June 2022
-
-- Name: Suyash Nayan
-- Organization: Chromium
-- Tech-Stack: JavaScript
-- Host: 
-- Timing: **8:00 PM - 9:00 PM**
-- Issue:
-
-
-
 ## Date: 10th June 2022
 
 - Name: Vedant Jain
 - Organization: Circuit Verse
 - Tech-Stack: Android/Web Development
-- Host: 
+- Host: Frehiwot and Bhavya
 - Timing: 7:00 PM - 8:00 PM
 - Issue:
 
@@ -140,7 +129,7 @@
 
 
 
-## Date: 12th June 2022
+## Date: 13th June 2022
 
 - Name: Janvi Thakkar
 - Organization: ScoreLab
